@@ -1,0 +1,41 @@
+body {
+  background-color: #787A7A;
+  color: #000;
+}
+
+.col-md-8 {
+  background-color: #76AD67;
+  padding-bottom: 100%;
+  margin-bottom: -100%;
+}
+
+.col-md-4 {
+  background-color: #6C66C4;
+  padding-bottom: 100%;
+  margin-bottom: -100%;
+}
+
+.heading {
+  text-align: center;
+  background-color: #B5B8BF;
+}
+
+.navbar {
+  background-color: #B26567;
+}
+
+.navbar-left {
+  padding-left: 60px;
+}
+
+.column-head-1, .column-head-2 {
+  margin-bottom: 30px;
+}
+
+.link-headings {
+  margin-bottom: 20px;
+}
+
+.main-content {
+  margin-bottom: 20px;
+}
